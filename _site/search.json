@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "B.Tech Computer Science (Second Year) | Saintgits College of Engineering (Autonomous), Kottayam, Kerala\nFull-stack developer with a strong foundation in Go, JavaScript (Svelte), HTML, CSS, and Sass. Proficient in building robust web applications and IoT solutions. Successfully delivered projects for Malayalam FC and National HSS. Eager to contribute to innovative projects and grow as a developer.\nSkills: Linux, Git, Node.js, Vim.\n\n\n\nMalayalam FC, Peringotukara www.malayalamfc.com\nNational Higher Secondary School, Irinjalakuda www.nationalhss.in\n\n\n\n\n\n\n\n\n\n\n\n\nProject\nRepository\nDemo\n\n\n\n\nNational Classic\nhttps://www.github.com/hxri-nxrxyxn/national-web\nhttps://hxri-nxrxyxn.github.io/national-web\n\n\nChinaliya Web\nhttps://www.github.com/hxri-nxrxyxn/chinaliya-web\nhttps://hxri-nxrxyxn.github.io/chinaliya-web\n\n\nKapithan IDRS\nhttps://www.github.com/hxri-nxrxyxn/kapithan-idrs-ui\nhttps://hxri-nxrxyxn.github.io/kapithan-idrs-ui\n\n\nKapithan EFAS\nhttps://www.github.com/hxri-nxrxyxn/kapithan-cet-ui\nhttps://hxri-nxrxyxn.github.io/kapithan-cet-ui\n\n\nIoT MCS\nhttps://www.github.com/hxri-nxrxyxn/sysmc-ui\nhttps://hxri-nxrxyxn.github.io/sysmc-ui\n\n\nMalayalam FC\nhttps://www.github.com/hxri-nxrxyxn/malayalamfc-web-classic\nhttps://hxri-nxrxyxn.github.io/malayalamfc-web-classic"
+  },
+  {
+    "objectID": "about.html#highlights",
+    "href": "about.html#highlights",
+    "title": "About Me",
+    "section": "",
+    "text": "Malayalam FC, Peringotukara www.malayalamfc.com\nNational Higher Secondary School, Irinjalakuda www.nationalhss.in"
+  },
+  {
+    "objectID": "about.html#projects",
+    "href": "about.html#projects",
+    "title": "About Me",
+    "section": "",
+    "text": "Project\nRepository\nDemo\n\n\n\n\nNational Classic\nhttps://www.github.com/hxri-nxrxyxn/national-web\nhttps://hxri-nxrxyxn.github.io/national-web\n\n\nChinaliya Web\nhttps://www.github.com/hxri-nxrxyxn/chinaliya-web\nhttps://hxri-nxrxyxn.github.io/chinaliya-web\n\n\nKapithan IDRS\nhttps://www.github.com/hxri-nxrxyxn/kapithan-idrs-ui\nhttps://hxri-nxrxyxn.github.io/kapithan-idrs-ui\n\n\nKapithan EFAS\nhttps://www.github.com/hxri-nxrxyxn/kapithan-cet-ui\nhttps://hxri-nxrxyxn.github.io/kapithan-cet-ui\n\n\nIoT MCS\nhttps://www.github.com/hxri-nxrxyxn/sysmc-ui\nhttps://hxri-nxrxyxn.github.io/sysmc-ui\n\n\nMalayalam FC\nhttps://www.github.com/hxri-nxrxyxn/malayalamfc-web-classic\nhttps://hxri-nxrxyxn.github.io/malayalamfc-web-classic"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My First Quarto based webpage",
+    "section": "",
+    "text": "(width=10%)\nQuarto: My New Best Friend for Web Development\nI can’t even begin to express how excited I am right now! I just finished building my first webpage using Quarto, and it’s absolutely incredible. Say goodbye to the days of manually wrestling with HTML and CSS to create a decent layout. Quarto has completely changed the game for me.\nI mean, who would’ve thought that combining the simplicity of Markdown with the power of Python and R could result in such stunning webpages? It’s like magic! I’m already dreaming up all the amazing projects I can tackle with this tool.\n\nHas anyone else jumped on the Quarto bandwagon yet? I’d love to hear about your experiences!"
+  }
+]
